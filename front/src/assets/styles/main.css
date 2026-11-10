@@ -1,0 +1,4 @@
+main {
+  min-height: 100vh;
+  padding: var(--sp-huge) 0 !important;
+}

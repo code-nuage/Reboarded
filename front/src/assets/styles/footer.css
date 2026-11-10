@@ -1,0 +1,4 @@
+footer {
+  padding: var(--sp-regular) 0;
+  background-color: var(--cb-surface);
+}

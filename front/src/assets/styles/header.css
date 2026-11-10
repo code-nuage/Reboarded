@@ -1,0 +1,11 @@
+header {
+  position: fixed;
+  width: 100vw;
+  padding: var(--sp-regular) 0;
+  background-color: var(--cb-surface);
+}
+
+#icon {
+  height: 20px;
+  width: 20px;
+}
